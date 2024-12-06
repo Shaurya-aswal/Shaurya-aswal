@@ -1,3 +1,4 @@
+![logo](https://github.com/Shaurya-aswal/Shaurya-aswal/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shaurya Aswal</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
