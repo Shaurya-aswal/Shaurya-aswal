@@ -1,43 +1,86 @@
-![logo](https://github.com/Shaurya-aswal/Shaurya-aswal/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Shaurya Aswal</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shaurya+Aswal+%F0%9F%91%8B;AI+%2F+ML+Engineer+in+Progress;Data+Science+%7C+Deep+Learning;Building+things+that+learn." alt="Typing SVG" />
+</h1>
 
-<img align = "right" width = "400" src = "https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaurya-aswal&label=Profile%20views&color=0e75b6&style=flat" alt="shaurya-aswal" /> </p>
-
-- 🌱 I’m currently learning **Nodejs, React and Dsa**
-
-- 💬 Ask me about **css,js,**
-
-- 📫 How to reach me **shaurya.aswal12@gmail.com**
-
-- ⚡ Fun fact **just a fitness freak**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shaurya_aswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaurya_aswal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shaurya aswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaurya aswal" height="30" width="40" /></a>
-<a href="https://instagram.com/shaurya-aswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaurya-aswal" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaurya-aswal&label=Profile+views&color=F70000&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Shaurya-aswal?label=Followers&style=flat-square&color=F70000" alt="followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<br></br>
+---
 
- <h2 align="center">⚡ Current Stats ⚡</h2>
-<br>
-<div align=center>
+### 🧠 About Me
+
+- 🎓 B.Tech Computer Science @ **MSIT, Delhi** (graduating 2028)
+- 🤖 Deeply interested in **AI/ML, Deep Learning, and Data Science**
+- 🏗️ Currently building end-to-end **ML pipelines** (MLflow, DagsHub, XGBoost, LightGBM)
+- 🎯 Goal: become a strong **Data Scientist / ML Engineer** who ships real systems
+- 💪 Side identity: fitness freak
+
+---
+
+### 🔭 What I'm Working On
+
+- 📦 **NYC Taxi Trip Duration Predictor** — Full ML pipeline: ingestion → transformation → training → tracking with MLflow + DagsHub
+- 🌿 **Plant Disease Detection** — CNN-based classifier using TensorFlow/Keras, served via Flask + Next.js
+- 📊 Sharpening skills in **feature engineering, model evaluation, and data pipelines**
+
+---
+
+### 🛠️ Tech Stack
+
+**ML / Data Science**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**Tools & Infra**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![DagsHub](https://img.shields.io/badge/DagsHub-FF5A5F?style=flat-square&logo=databricks&logoColor=white)
+
+**Also know**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=Shaurya-aswal&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Shaurya-aswal&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya-aswal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya-aswal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-  <br/>
+---
 
-<br/><br/>
+### 🤝 Connect
 
-
+<p align="left">
+  <a href="https://twitter.com/shaurya_aswal" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/shaurya-aswal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shaurya.aswal12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 
