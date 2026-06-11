@@ -74,7 +74,7 @@
   <a href="https://twitter.com/shaurya_aswal" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/shaurya-aswal" target="_blank">
+  <a href="https://linkedin.com/in/shaurya-aswal](https://www.linkedin.com/in/shauryaaswal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shaurya.aswal12@gmail.com">
